@@ -16,6 +16,7 @@ Specs:
 <li>Screen Res: 1920x1080</li>
 <li>Wifi Card: Broadcom BCM94360NG</li>
 <li>SSD: SAMSUNG SSD PM851 mSATA 256GB</li>
+</ul>
 
 Everything is working except:
 Fingerprint Reader
