@@ -4,7 +4,7 @@
 
 Disclamer:
 
-<b>I am not responsible for anything that may happen to your computer while you go through the process of getting macOS to work properly on your configuration!</b>
+<b>I AM NOT RESPONSIBLE FOR ANYTHING THAT MAY HAPPEN TO YOUR COMPUTER!</b>
 
 I may not include all of the kexts you need to make macOS work properly on your configuration. Make sure you follow the guide and look for any specific things you may need to add or delete for a smooth experience with macOS on your configuration
 
