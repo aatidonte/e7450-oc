@@ -23,3 +23,5 @@ Fingerprint Reader
 
 <b>If any issues arise, please make sure to file an issue!</b>
 
+Make sure you go to the Opencore Dortania guide and skip to <a href="https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/broadwell.html#platforminfo">PlatformInfo</a> to learn how to generate your own serial number and other values to get FaceTime and iMessage working. 
+
